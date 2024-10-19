@@ -1,5 +1,5 @@
 
-# PDF Analyzer App
+# Study Buddi 📚
 
 ## Project Description
 
